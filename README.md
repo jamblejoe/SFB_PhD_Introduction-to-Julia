@@ -1,1 +1,1 @@
-# SFB_PhD_Introduction-to-Julia
+# Introduction to Julia for the SFB PhD seminar
